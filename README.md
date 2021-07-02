@@ -7,10 +7,6 @@
 
 *50 minutes, Intermediate, [Start Building](#1-login-or-register-to-astradb-and-create-database)*
 
-A simple **ReactJS** Netflix homepage clone running on *Astra DB* that leverages a GraphQL API with *paging* and *infinite scrolling.* The materials has been built with the collaboration of [Ania Kubow](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) and Datastax developer advocates team.
-
-<!--- ENDEXCLUDE --->
-- [Live Demo](https://workshop-graphql-netflix.netlify.app/) or [Video Walkthrough](https://imgur.com/3ns3UJB)
 
 ![image](./img/ui.png)
 
@@ -687,11 +683,4 @@ Now that you've hooked everything up, time to deplpoy to production.
   ![Netlify Setup Example](./tutorial/images/prodDeploy.png?raw=true)
 
 
-# Extra resources
 
-## Video tutorial with Ania Kubow
-Thank you to our wonderful friend Ania Kubow for producing the Netflix clone. If you are not aware of Ania and love learning about coding you should absolutely check out her YouTube channel listed below.
-
-While we focused on getting you up and running to production with Astra DB and Netlify, Ania's video will dig into more details on the app itself. Check it out to dig in more.
-
-[Ania's Netflix Video](https://www.youtube.com/watch?v=g8COh40v2jU)
